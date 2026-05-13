@@ -1,0 +1,10 @@
+.todoList{
+  background-color: lightblue;
+  padding: 10px;
+  margin: 5px 0;
+  font-size: large;
+  font-weight: bold;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
